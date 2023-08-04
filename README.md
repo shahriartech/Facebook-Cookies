@@ -2,12 +2,16 @@
 
 <p align="center">
 
-  <img src="logo/likhon.jpg" alt="Logo">
+  <img src="logo/likhon.jpeg" alt="Logo">
 
 </p>
 
 This Chrome extension **Facebook Bot V1** is your solution to automate bot logins. Import/export fbstate.json and cut down on manual work and enhance productivity. 🚀
+<p align="center">
 
+  <img src="logo/A1673D5F-3DFD-4973-B2F1-A924543D3A8C.jpg" alt="Logo">
+
+</p>
 ## 🌟 Features
 
 - 📂 Import/Export fbstate.json for bot login.
