@@ -4,14 +4,13 @@ Facebook Bot V1
   <img src="logo/likhon.jpg" alt="Logo">
 </p>
 This Chrome extension Facebook Bot V1 is your solution to automate bot logins. Import/export fbstate.json and cut down on manual work and enhance productivity. 🚀
-
-<kbd>
-  <img src="path_to_your_gif.gif">
-</kbd>
 🌟 Features
 📂 Import/Export fbstate.json for bot login.
 🕹️ User-friendly interface.
 ⚙️ Quick access right from your browser.
+
+
+
 ⚡ Installation
 📥 Download the latest release from our GitHub Releases.
 📂 Unzip the downloaded file to your preferred location.
@@ -22,6 +21,8 @@ This Chrome extension Facebook Bot V1 is your solution to automate bot logins. I
 🔍 Click on the Facebook Bot V1 icon in your browser after installing the extension.
 💡 Select either the import or export option, depending on your need.
 🔄 For import, provide the fbstate.json file. For export, you will receive the fbstate.json file.
+
+
 🖐️ Contributing
 We welcome contributions from the community! If you'd like to contribute:
 
@@ -31,6 +32,8 @@ We welcome contributions from the community! If you'd like to contribute:
 ⬆️ Push to the branch: git push origin feature/AmazingFeature
 📮 Submit a pull request.
 📜 License
+
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Manage your Facebook bots effortlessly with Facebook Bot V1. Try it out today! 🎉
